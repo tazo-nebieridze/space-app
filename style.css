@@ -19,7 +19,7 @@
 .home-img{
     position: absolute;
     height: 100vh;
-    width: 210.02vh;
+    width: 212.1vh;
     z-index: -1;
 }
 .star-img{
@@ -114,7 +114,7 @@
     visibility: hidden;
     position: absolute;
     height: 100vh;
-    width: 210.02vh;
+    width: 212.1vh;
     z-index: -1;
 }
 .span-2{
@@ -222,7 +222,7 @@
     visibility: hidden;
     position: absolute;
     height: 100vh;
-    width: 210.02vh;
+    width: 212.1vh;
     z-index: -1;
 }
 .crew-div{
@@ -243,7 +243,7 @@
     height: 75vh;
 }
 .crew-picture{
-    height: 403.9px;
+    height: 397.9px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -326,7 +326,7 @@
     visibility: hidden;
     position: absolute;
     height: 100vh;
-    width: 210.02vh;
+    width: 212.1vh;
     z-index: -1;
 }
 .technology-div{
